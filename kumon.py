@@ -3,7 +3,7 @@
 from random import randint
 import streamlit as st
 
-'Mera Time Table App'
+'<b> Mera Time Table App </b>'
 
 @st.cache
 def get_two_random_numbers(n):
