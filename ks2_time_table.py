@@ -13,7 +13,7 @@ def get_two_random_numbers(n):
 
 x, y = get_two_random_numbers( st.number_input('Please enter n ', 1))
 result = x * y
-st.write(x, ' * ', y , '= ') #, x*y)
+st.write(x, ' × ', y , '= ') #, x*y)
 st.write('_________')
 
 answer = st.number_input('Please enter your answer ', 1)
